@@ -1,0 +1,52 @@
+header{
+    background-color: #A2D2FF;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    display: flex;
+    justify-content: center;
+}
+header img{
+    width:50px;
+    height: 50px;
+}
+main{
+    background-color: #219EBC;
+}
+main .section1{
+    display: flex;
+    justify-content: space-around;
+    background-color: #219EBC;
+}
+main .section1 img{
+    width:320px;
+    height:320px;
+    margin-left: 190px;
+    margin-right: 190px;
+}
+.section2{
+    display: flex;
+    justify-content: space-around;
+    font-family: 'Nanum Pen Script', cursive;
+    color:#03045E;
+}
+main div ul{
+    margin-right: auto;
+}
+main div li{
+    font-family: 'Nanum Pen Script', cursive;
+    list-style: none;
+}
+.footer{
+    display: flex;
+    justify-content: space-around;
+    background-color: #BDE0FE;
+}
+.footer img{
+    width : 50px;
+    height: 50px;
+}
+
+header h1{
+    font-family: 'Press Start 2P', cursive;
+    text-align: center;
+}
